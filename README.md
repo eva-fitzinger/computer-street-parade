@@ -17,7 +17,7 @@ Computer Street Parade - The Firewall Riots
 
 |               | Student ID    | First Name  | Last Name      | E-Mail         |
 |---------------|---------------|-------------|----------------|----------------|
-| **Student 1** | k11812499          | Simon        | Sternbauer           | k11812499@students.jku.at           |
+| **Student 1** | k11812499          | Katharina        | Sternbauer           | k11812499@students.jku.at           |
 | **Student 2** | k11826767          | Eva          | Mayer                | k11826767@students.jku.at           |
 
 ### Concept Submission due on 26.03.2021
